@@ -1,13 +1,15 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Main from "./components/Main";
 import './style.css';
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Card from "./components/Card";
 
 export default function App(){
     return(
-        <div className="container">
+        <div className='container'>
             <Navbar />
-            <Main />
+            <Hero />
+            <Card />
         </div>
     )
 }

@@ -1,14 +1,12 @@
 import React from "react";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import {faBookmark} from '@fortawesome/free-regular-svg-icons';
 
 export default function Navbar(){
     return(
         <nav>
-            <div className="nav-left">
-                <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" />
-                <h2>ReactFacts</h2>
-            </div>
-            <div className="nav-right">
-                <h3>React Course - Project-1</h3>
+            <div className='nav-logo'>
+                <h2><FontAwesomeIcon icon={faBookmark} className='icon'></FontAwesomeIcon>airbnb</h2>
             </div>
         </nav>
     )
