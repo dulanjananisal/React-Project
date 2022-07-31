@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a790e2fe-35fc-43a1-9f1c-fc701a3099fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Hero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/pexels-kammeran-gonzalezkeola-8258043.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/pexels-pok-rie-2049422.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/philipp-pilz-LmDtHyqCQb0-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/wp3415330-high-quality-wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/images/wp8050744-lock-screen-pc-wallpapers.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/Main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Hero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Navbar.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,11 +62,23 @@
       <updated>1658844764543</updated>
       <workItem from="1658844767318" duration="9231000" />
       <workItem from="1658903267128" duration="10179000" />
+      <workItem from="1659110316520" duration="1470000" />
+      <workItem from="1659114630069" duration="3932000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
